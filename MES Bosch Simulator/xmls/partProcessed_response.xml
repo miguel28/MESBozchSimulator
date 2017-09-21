@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <header eventId="%eventId%" eventName="partProcessed" version="V2.x" eventSwitch="-1" timeStamp="2015-09-17T12:26:51.3813832-06:00" contentType="3">
+    <location lineNo="%lineNo%" statNo="%statNo%" statIdx="%statIdx%" fuNo="%fuNo%" workPos="%workPos%" toolPos="%toolPos%" processNo="%processNo%" processName="Labeling%processName%" application="%application%" />
+  </header>
+  <event>
+    <result returnCode="0">
+    </result>
+    <trace />
+  </event>
+  <body />
+</root>
